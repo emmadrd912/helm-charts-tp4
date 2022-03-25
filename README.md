@@ -6,6 +6,6 @@
 
 $ helm install -f values.yaml charts-tp4 .
 
-> Les commandes pour se connecter au service sera décrite.
+> Les commandes pour se connecter au service seront décrite.
 
 ![](helm-tp4.jpg)
