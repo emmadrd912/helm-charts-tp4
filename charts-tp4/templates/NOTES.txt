@@ -2,7 +2,7 @@
 
 $ kubectl get service webserver
 
-2. Lancer un minikube tunnel our y accèder depuis son navigateur :
+2. Lancer un minikube tunnel pour y accèder depuis son navigateur :
 
 $ minikube tunnel
 
